@@ -1,15 +1,10 @@
 <div align="center">
 
-<pre>
- ____  _                          
-|  _ \| |_   _  __ _  __ _ _   _ 
-| |_) | | | | |/ _` |/ _` | | | |
-|  __/| | |_| | (_| | (_| | |_| |
-|_|   |_|\__,_|\__, |\__, |\__, |
-               |___/ |___/ |___/
-</pre>
-
-# pluggy
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pluggy-sh/.github/main/mediakit/logotype/dark/logotype-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pluggy-sh/.github/main/mediakit/logotype/light/logotype-light.svg">
+  <img alt="pluggy" src="https://raw.githubusercontent.com/pluggy-sh/.github/main/mediakit/logotype/light/logotype-light.svg" width="320">
+</picture>
 
 A Minecraft plugin toolchain that fits in one binary.
 
